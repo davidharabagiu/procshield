@@ -1,7 +1,6 @@
 #ifndef _CALLBACKS_H_
 #define _CALLBACKS_H_
 //
-//  Copyright (C) 2017 BitDefender S.R.L.
 //  Author(s)   : David HARABAGIU(dharabagiu@bitdefender.com)
 //
 

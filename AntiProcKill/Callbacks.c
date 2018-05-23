@@ -1,5 +1,4 @@
 //
-//  Copyright (C) 2017 BitDefender S.R.L.
 //  Author(s)   : David HARABAGIU(dharabagiu@bitdefender.com)
 //
 

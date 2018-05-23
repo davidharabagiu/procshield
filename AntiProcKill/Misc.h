@@ -1,7 +1,6 @@
 #ifndef _MISC_H_
 #define _MISC_H_
 //
-//  Copyright (C) 2017 BitDefender S.R.L.
 //  Author(s)   : David HARABAGIU(dharabagiu@bitdefender.com)
 //
 
